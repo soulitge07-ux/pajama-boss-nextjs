@@ -1,13 +1,13 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'Next.js Starter Blog',
-  author: 'Tails Azimuth',
-  headerTitle: 'TailwindBlog',
-  description: 'A blog created with Next.js and Tailwind.css',
+  title: '파자마보스 인사이트 | 지식 창업 자동화 & 퍼스널 IPO 전략',
+  author: '파자마보스(Pajama Boss)',
+  headerTitle: 'Pajama Boss Insight',
+  description: '지식 창업의 시스템화, 퍼스널 IPO로 당신의 가치를 상장하세요. 1인 기업 수익 자동화 모델과 스마트 웹사이트 구축 브랜딩 전략을 공유합니다.',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
-  siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
+  siteUrl: 'https://insight.pajama-boss.com',
+  siteRepo: 'https://github.com/soulitge07-ux/pajama-boss-nextjs',
   siteLogo: `${process.env.BASE_PATH || ''}/static/images/logo.png`,
   socialBanner: `${process.env.BASE_PATH || ''}/static/images/twitter-card.png`,
   mastodon: 'https://mastodon.social/@mastodonuser',
