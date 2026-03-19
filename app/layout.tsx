@@ -25,6 +25,11 @@ export const metadata: Metadata = {
     template: `%s | ${siteMetadata.title}`,
   },
   description: siteMetadata.description,
+  verification: {
+    other: {
+      'naver-site-verification': ['692197e1cbb5a15483e0e96a00b15df369e5b32c'],
+    },
+  },
   openGraph: {
     title: siteMetadata.title,
     description: siteMetadata.description,
